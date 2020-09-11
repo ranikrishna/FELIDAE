@@ -1,0 +1,19 @@
+<head>
+	<title>
+		CSS
+	</title>
+	<style>
+	body{
+	 	width:60% ;
+		margin:auto;
+		background-color:green;
+	}
+	h1{
+		color:red ;
+	}
+	p{
+		text-align:justify ;
+		font:italic small-caps bold 20px monospace ;	
+	}
+	</style>
+</head>
