@@ -3,16 +3,16 @@
 		CSS
 	</title>
 	<style>
-	body{
-	 	width:60% ;
-		margin:auto;
-	}
-	h1{
-		color:indianred ;
-	}
-	p{
-		text-align:justify ;
-		font:italic normal bold 20px monospace ;	
-	}
+		body{
+			width:60% ;
+			margin:auto;
+		}
+		h1{
+			color:indianred ;
+		}
+		p{
+			text-align:justify ;
+			font:italic normal normal 20px monospace ;	
+		}
 	</style>
 </head>
