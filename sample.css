@@ -15,8 +15,8 @@
 	}
 	img{
 		display:block;
-		align-left:auto;
-		align-right:auto;
+		margin-left:auto;
+		margin-right:auto;
 		width:70%;	
 	}
 	
