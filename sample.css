@@ -7,9 +7,16 @@
 	}
 	h1{
 		color:#ff8000;
+		text-align:center;
 	}
 	p{
 		text-align:justify ;
 		font:normal normal lighter 20px hevletica ;	
+	}
+	img{
+		display:block;
+		align-left:auto;
+		align-right:auto;
+		width:70%;	
 	}
 	
