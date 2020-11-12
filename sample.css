@@ -14,8 +14,9 @@
 		font:normal normal lighter 20px hevletica ;	
 	}
 	img{
-		float:right;
-		width:60%;
+		display:block;
+                margin-left:auto;
+                margin-right:auto;
 			
 	}
 	
