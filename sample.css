@@ -1,7 +1,7 @@
 
 	
 		body{
-	 	width:100% ;
+	 	width:80% ;
 		margin:auto;
 		
 	}
@@ -14,7 +14,6 @@
 		font:normal normal lighter 20px hevletica ;	
 	}
 	img{
-		display:block;
 		float:right;
 		width:60%;
 			
